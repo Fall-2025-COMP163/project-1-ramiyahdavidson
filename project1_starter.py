@@ -94,6 +94,8 @@ def level_up(character):
 if __name__ == "__main__":
     print("=== CHARACTER CREATOR ===")
     print("Test your functions here!")
+
+    print("Kori Jackson")
     
     # Example usage:
     # char = create_character("TestHero", "Warrior")

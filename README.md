@@ -97,3 +97,24 @@ Modifying protected files will result in automatic academic integrity violation
 Implementation (70%): Function correctness, file operations, error handling
 
 Interview (30%): Code explanation and live coding challenge
+
+•	Game Concept: What's your RPG world about?
+My RPG world is about a bunch of heroes going on quests in a fantasy land. You pick a class like Warrior or Mage and level up by fighting monsters and getting stronger.
+
+•	Design Choices: Why did you choose your stat formulas?
+I made my stat formulas so that Warriors are strong and tanky, and Mages have more magic but less health. I wanted it to feel balanced but still make your class feel special.
+
+•	Bonus Creative Features: Did you add anything unique?
+N/A
+
+•	AI Usage: What AI assistance did you use and where?
+I used AI to help with syntax stuff and to explain how to structure my code. I didn’t let it write the whole thing, just helped me when I got stuck.
+
+•	How to Run: Clear instructions for testing your code
+Open the project in PyCharm.
+Make sure Python is installed.
+Run the main file (like python main.py).
+Follow the prompts to create your character and start playing.
+
+
+
